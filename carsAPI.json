@@ -12,7 +12,7 @@
       {
         "image": "./assets/fordfiesta.png",
         "name": "Ford Fiesta",
-        "type": "Hatchpack",
+        "type": "Hatchback",
         "category": "Budget",
         "persons": 4,
         "suitcases": 3,

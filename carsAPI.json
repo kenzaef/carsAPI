@@ -1,19 +1,19 @@
 {
     "cars": [
       {
-        "image": "./assets/car1.png",
-        "name": "Audi Q5",
-        "type": "SUV",
+        "image": "./assets/kiaforte.png",
+        "name": "Kia Forte",
+        "type": "Sedan",
         "category": "Standard",
         "persons": 5,
-        "suitcases": 4,
+        "suitcases": 3,
         "price": 800
       },
       {
-        "image": "./assets/car2.png",
-        "name": "WV Golf",
+        "image": "./assets/fordfiesta.png",
+        "name": "Ford Fiesta",
         "type": "Hatchpack",
-        "category": "Standard",
+        "category": "Budget",
         "persons": 4,
         "suitcases": 3,
         "price": 650
@@ -28,12 +28,12 @@
         "price": 1200
       },
       {
-        "image": "./assets/car4.png",
-        "name": "Opel Vivaro",
-        "type": "Van",
-        "category": "Van",
-        "persons": 9,
-        "suitcases": 6,
+        "image": "./assets/peugeot5008.png",
+        "name": "Peugeot 5008",
+        "type": "Minivan",
+        "category": "Minivanan",
+        "persons": 7,
+        "suitcases": 5,
         "price": 1240
       },
       {
